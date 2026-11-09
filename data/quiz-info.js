@@ -1,0 +1,1 @@
+window.QUIZ_META={baseQuestions:40,extraQuestions:25,totalQuestions:65,examLength:20};

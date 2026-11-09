@@ -1,0 +1,1 @@
+window.SIMULATION_META={rounds:12,start:'August 1914',end:'November 1918',unlockKey:'historyEscapeUnlocked'};
