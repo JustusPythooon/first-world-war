@@ -4,6 +4,7 @@ Interaktives Lern-Escape-Game für Geschichte, 9. Klasse, Realschule Bayern.
 
 ## Funktionen
 - 25 nacheinander freischaltbare Akten
+- Antwortmöglichkeiten werden bei jeder Frage zufällig neu angeordnet
 - 65 Quizfragen, davon 25 Zusatzfragen zum Augusterlebnis und zur Quellenkritik
 - Lernkapitel und Zeitstrahl
 - Managementsimulation „Oberkommando 1914“
